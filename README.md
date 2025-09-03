@@ -33,5 +33,4 @@ It helps fitness centers or trainers monitor workout frequency, calorie burn, an
 
 ## 👤 Author
 - **Dhruva Bankre**  
-- GitHub: [yourusername](https://github.com/yourusername)  
 - Email: dbbankerb@gmail.com  
