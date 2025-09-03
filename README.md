@@ -20,14 +20,6 @@ It helps fitness centers or trainers monitor workout frequency, calorie burn, an
 - Power BI (Data modeling, DAX measures, dashboards)  
 - Dataset: Gym member exercise & wellness data (BMI, calories, age, gender, workout type, etc.)  
 
-## 📷 Screenshots
-### Performance Overview
-![Performance Dashboard](screenshots/performance-overview.png)
-
-### Health & Wellness Trends
-![Wellness Dashboard](screenshots/wellness-trends.png)
-
-*(Add your actual screenshots here after saving them from Power BI and uploading to the repo’s `screenshots/` folder.)*
 
 ## 📂 Files in this Repository
 - `gym-dashboard.pbix` — Full Power BI report  
